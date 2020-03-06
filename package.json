@@ -1,7 +1,7 @@
 {
-  "name": "Sample Discussion",
+  "name": "building-forms-in-react",
   "version": "1.0.0",
-  "description": "A demo for building Forms in React.",
+  "description": "Yelp API Home.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
